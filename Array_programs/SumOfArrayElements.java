@@ -1,3 +1,4 @@
+package Array_programs;
 public class SumOfArrayElements {
     public static void main(String[] args) {
         int sum = 0;
